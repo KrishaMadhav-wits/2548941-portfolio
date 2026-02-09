@@ -1,0 +1,1 @@
+I have learnt about how certain software is planned and built and what goes into designing them. I have learnt about scrumm and everything going into software teams.
